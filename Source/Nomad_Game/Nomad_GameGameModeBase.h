@@ -14,4 +14,6 @@ class NOMAD_GAME_API ANomad_GameGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	ANomad_GameGameModeBase();
 };
